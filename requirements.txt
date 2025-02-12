@@ -1,0 +1,2 @@
+camel-ai[all]==0.16.20
+unstructured
